@@ -1,0 +1,17 @@
+Django==4.2
+djangorestframework
+gunicorn
+pandas
+numpy
+scikit-learn
+joblib
+nltk
+transformers
+torch
+sentence-transformers
+datasets
+fastapi
+uvicorn
+pyarrow
+django-cors-headers
+requests

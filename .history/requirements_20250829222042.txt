@@ -1,0 +1,20 @@
+Django==4.2
+djangorestframework
+gunicorn
+pandas
+numpy
+scikit-learn
+joblib
+nltk
+transformers
+torch          # or CPU-only: pip install torch --index-url https://download.pytorch.org/whl/cpu
+sentence-transformers
+datasets       # optional if using HuggingFace datasets
+fastapi       # optional for microservices
+uvicorn       # if using fastapi
+pyarrow
+django-cors-headers
+requests
+corsheaders
+matplotlib
+plotly
