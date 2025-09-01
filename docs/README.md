@@ -58,6 +58,8 @@ This propaganda article is spreading lies about India.
 * Word Cloud → \["propaganda", "lies", "India"]
 
 ---
+## Demo Video Link: 
+   https://drive.google.com/file/d/1BPrc4tiOWKs8sTUS-qbTP7lV0zV9bmKQ/view?usp=sharing
 
 ## 📂 Dataset
 
@@ -148,3 +150,4 @@ This will:
 * Add **real-time Twitter scraping** + classification.
 
 ---
+
