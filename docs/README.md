@@ -72,6 +72,10 @@ The model was trained on:
 
 Training file: `indian_news_500.csv`
 
+# ⚠️ Full dataset is not included due to GitHub size limits.
+Please download it from [https://drive.google.com/file/d/1asn5_2FuE09zv2ighyMWZnMJiMnvhG8A/view?usp=sharing] and place it in the /data folder.
+
+
 ---
 
 ## 🧑‍💻 Installation
@@ -150,4 +154,5 @@ This will:
 * Add **real-time Twitter scraping** + classification.
 
 ---
+
 
